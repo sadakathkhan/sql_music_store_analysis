@@ -1,4 +1,12 @@
 # sql_music_store_analysis
+Schema Diagram
+
+
+<img width="594" alt="schema_diagram" src="https://github.com/sadakathkhan55/sql_music_store_analysis/assets/159020826/eb059423-b0b8-4c18-b282-d29cece4157b">
+
+
+
+
 
 ------------------------------------set 1 easy ---------------------------
 
